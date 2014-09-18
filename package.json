@@ -1,0 +1,11 @@
+{
+  "name": "echoechoecho",
+  "description": "An http server that echos back everything it's sent with a 200",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": "0.10.x",
+  "dependencies": {
+    "body-parser": "^1.8.2",
+    "express": "^4.9.2"
+  }
+}
